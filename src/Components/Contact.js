@@ -96,7 +96,7 @@ class Contact extends React.Component {
             <div className="container-fluid padding text-center mt-4">
                     <h2 class="display-5 white">Connect here</h2>
                     <div className="social-btns padding col-12">
-                        <a href="#"><i class="fa fa-messenger"></i></a>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-google-plus"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
